@@ -1,0 +1,10 @@
+.text-separator{
+    display: block;
+    border-top: 6px solid #3D3D3D;
+    width: 100px;
+}
+.center-separator{
+    size: 85%;
+    border-top: 3px solid #3D3D3D;
+    margin: 0 auto 3% auto;
+}

@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.main-container{
+    max-width: 960px;
+    margin: 0 auto 5% auto;
+    padding: 20px;
+}
+
+.title-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+
+.in-row{
+    flex-direction: row;
+}
+
+.space-evenly{
+    justify-content: space-evenly;
+}
+
+.width-limit{
+    max-width: 410px;
+}
