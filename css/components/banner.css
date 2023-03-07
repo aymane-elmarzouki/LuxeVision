@@ -28,7 +28,7 @@
     opacity: 0.8;
 }
 
-@media (max-width: 580px) {
+@media screen (max-width: 580px) {
   
     .banner{
         width: 150%;
