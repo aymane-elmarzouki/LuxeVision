@@ -31,6 +31,6 @@
 @media (max-width: 580px) {
   
     .banner{
-        
+        width: 150%;
     }
 }
